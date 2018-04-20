@@ -1,5 +1,7 @@
 # 99_bottles_of_beer题目划分
 
+![](Tasking-img.jpg)
+
 ```
 #1 main
 输入：
@@ -14,3 +16,4 @@
 输出：
 	lyric:String
 ```
+
